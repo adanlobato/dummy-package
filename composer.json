@@ -1,0 +1,10 @@
+{
+    "name": "adanlobato/dummy-package",
+    "type": "library",
+    "description": "Dummy package",
+    "extra": {
+        "branch-alias": {
+            "dev-master": "0.1.x-dev"
+        }
+    }
+}
